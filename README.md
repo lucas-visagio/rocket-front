@@ -1,4 +1,4 @@
-# Projeto Frontend do RocketLab 2024
+# Projeto Frontend do RocketLab
 
 ## Passos para rodar o projeto
 
